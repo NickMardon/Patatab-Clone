@@ -1,8 +1,9 @@
-# Patabat Clone
+# Patatab Clone
 
 ## Description 
 
 This is a JavaScript based application built from Colt Steele's Web Developer Bootcamp.
+https://nickmardon.github.io/Patatab-Clone/
 
 ## Screenshots
 
